@@ -1,0 +1,10 @@
+{
+    "name": "Jtian-t/Deque",
+    "version": "0.1.0",
+    "readme": "README.md",
+    "repository": "https://github.com/Jtian-t/Deque/",
+    "license": "Apache-2.0",
+    "keywords": ["Deque"],
+    "description": "Double-Ended Queue Library",
+    "source": "src"
+  }

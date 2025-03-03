@@ -1,0 +1,50 @@
+{
+  "source_dir": "D:\\Deque",
+  "name": "Jtian-t/Deque",
+  "packages": [
+    {
+      "is-main": false,
+      "is-third-party": false,
+      "root-path": "D:\\Deque\\src\\lib",
+      "root": "Jtian-t/Deque",
+      "rel": "lib",
+      "files": {
+        "D:\\Deque\\src\\lib\\hello.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {
+        "D:\\Deque\\src\\lib\\hello_test.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "deps": [],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "D:\\Deque\\target\\wasm-gc\\release\\check\\lib\\lib.mi"
+    }
+  ],
+  "deps": [],
+  "backend": "wasm-gc",
+  "opt_level": "release",
+  "source": "src"
+}
